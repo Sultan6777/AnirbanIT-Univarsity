@@ -1,0 +1,193 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.name>h1{
+  text-align: center;
+  text-transform: uppercase;
+  color: rgb(45, 33, 150);
+
+}
+.backgroundimg{
+    background-image: url(./anirban/Blue_Modern_Globe_Technology_Logo.png);
+    background-size: cover;
+    background-position:center center;
+    background-repeat: no-repeat;
+    height: 90vh;
+    width: 100%;
+
+}
+.logo > img{
+    height:25%;
+    width: 25%;
+    border-radius: 50%;
+
+}
+.cards{
+    background-color: rgb(201, 230, 230);
+    background-size: cover;
+    background-position:center center;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+.card-body>img{
+    display: block;
+    margin: 0 auto;
+    margin-top: 13%;
+}.card-title{
+    text-align: center;
+    
+  
+}
+.photo > img{
+    display: block;
+    margin: auto;
+    width: 90%;
+    height: 100%;
+    
+}
+.professor{
+    color: black;
+}
+.professor:hover{
+    color: rgb(59, 124, 81);
+}
+
+.zoom {
+    padding: 10px;
+   transition: transform .2s;
+  
+   /* margin: 0 auto;*/
+  }
+  .zoom:hover {
+    /*-ms-transform: scale(1.5); 
+    -webkit-transform: scale(1.5); */
+    transform: scale(1.1); 
+  }
+  .admission{
+    background-color: rgb(50, 87, 87);
+    background-size: cover;
+    background-position:center center;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+  }
+ .buttom{
+  
+        background-color: #eef7ee;
+        border: 2px solid black;
+        color: rgb(19, 12, 12);
+        padding: 15px 52px;
+        text-align: center;
+        text-decoration: none;
+        display:block;
+        font-size: 16px ;
+        margin: 0% auto;
+        border-radius: 5px;
+        font-weight: bold;
+ }
+ .buttom:hover{
+    background-color: rgb(50, 87, 87);  
+ }
+ .sir{
+    border: 5px solid rgb(231, 240, 240);  
+    border-radius: 5px;  
+ }
+ .slider{
+    background-color: rgb(236, 247, 241);
+    background-size: cover;
+    background-position:center center;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+ }
+ .cardbtn{
+    background-color: #29db41;
+    border: none;
+    color: rgb(253, 253, 253);
+    padding: 15px 52px;
+    text-align: center;
+    text-decoration: none;
+    display:block;
+    font-size: 16px ;
+    margin: 0% auto;
+    border-radius: 5px;
+    font-weight: bold; 
+ }
+ .view{
+    background-color:   rgb(236, 247, 241);
+     border: 1px solid #29db41;
+        color: #29db41;
+        padding: 15px 52px;
+        text-align: center;
+        text-decoration: none;
+        display:block;
+        font-size: 16px ;
+        margin: 0% auto;
+        border-radius: 5px;
+        font-weight: bold; 
+ }
+ .view:hover{
+     background-color:#29db41 ;
+     color: white;
+ }
+ .university{
+    background-color: white;
+    background-size: cover;
+    background-position:center center;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%; 
+ }
+ .sliderimg{
+    background-image: url(./anirban/world.jpg);
+    background-size: cover;
+    background-position:center center;
+    background-repeat: no-repeat;
+    height: 60vh;
+    width: 100%;
+ }
+ .project{
+    background-color: white;
+    background-size: cover;
+    background-position:center center;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;    
+ }
+ .event{
+    background-color: white;
+    background-size: cover;
+    background-position:center center;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;    
+ }
+ .counter{
+    background-color: rgb(233, 216, 216);
+    background-size: cover;
+    background-position:center center;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;    
+ }
+ .count{
+     width: 100%;
+ }
+ .fotter{
+    background-color: rgb(31, 26, 97);
+    background-size: cover;
+    background-position:center center;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;  
+ }
+ .copy{
+    background-color: rgb(29, 28, 36);
+    background-size: cover;
+    background-position:center center;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;  
+ }
